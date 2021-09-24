@@ -1,0 +1,86 @@
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'jamming_sketch.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{495.64814758bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.35377638)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{jamming_sketch.pdf}}%
+    \put(0.39564524,0.23676931){\color[rgb]{0.19215686,0.65882353,0.00392157}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$C_0 N < N_\Delta < N$\end{tabular}}}}%
+    \put(0.10382192,0.30577011){\color[rgb]{0.19215686,0.65882353,0.00392157}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$N_\Delta \approx P$\end{tabular}}}}%
+    \put(0.12176488,0.24044741){\color[rgb]{0.75294118,0.09019608,0.09019608}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}test error\end{tabular}}}}%
+    \put(0.33214303,0.04829046){\color[rgb]{0.19215686,0.65882353,0.00392157}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$N_\Delta = 0$\end{tabular}}}}%
+    \put(0.4767399,0.02327116){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$N$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{jamming_sketch.pdf}}%
+    \put(0.23222801,0.00237905){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$N^*$\end{tabular}}}}%
+    \put(0.37749235,0.00237905){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$P/C_0$\end{tabular}}}}%
+    \put(0.30660382,0.00237906){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$<$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{jamming_sketch.pdf}}%
+    \put(0.99121772,0.02327116){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$h$\end{tabular}}}}%
+    \put(0.56169069,0.33552401){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\tilde\alpha$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{jamming_sketch.pdf}}%
+    \put(0.51205964,0.17269996){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$1$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{jamming_sketch.pdf}}%
+    \put(0.58646649,0.12893969){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}jammed\end{tabular}}}}%
+    \put(0.80069644,0.09301081){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}feature\end{tabular}}}}%
+    \put(0.80021868,0.24471537){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}lazy\end{tabular}}}}%
+    \put(0.57047241,0.01601823){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny log-scale\end{tabular}}}}%
+    \put(0.51947241,0.07245946){\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny log-scale\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{jamming_sketch.pdf}}%
+    \put(0.92458744,0.1471911){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Mean-Field\end{tabular}}}}%
+    \put(0.81092499,0.31788874){\rotatebox{25}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}NTK\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{jamming_sketch.pdf}}%
+    \put(0.08885372,0.07509017){\color[rgb]{0.09019608,0.25490196,0.75294118}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}train error\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{jamming_sketch.pdf}}%
+    \put(0.4072153,0.32716014){\color[rgb]{0.75294118,0.09019608,0.09019608}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}bias -- variance\\trade off\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{jamming_sketch.pdf}}%
+  \end{picture}%
+\endgroup%

@@ -1,0 +1,78 @@
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'problems.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{576bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.33333333)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{problems.pdf}}%
+    \put(0.04019392,0.2945294){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\mathcal{L}$\end{tabular}}}}%
+    \put(0.73570809,0.16883294){\rotatebox{78.656247}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny $200.$\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{problems.pdf}}%
+    \put(0.80231902,0.13742599){\rotatebox{43.759484}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny $203.$\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{problems.pdf}}%
+    \put(0.85147961,0.319678){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}C\end{tabular}}}}%
+    \put(0.16645233,0.319678){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}A\end{tabular}}}}%
+    \put(0.49944894,0.319678){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}B\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{problems.pdf}}%
+    \put(0.29166667,0.02083333){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$W$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{problems.pdf}}%
+    \put(0.37861355,0.2945294){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\epsilon_{\text{test}}$\end{tabular}}}}%
+    \put(0.62765169,0.02083333){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$N$\end{tabular}}}}%
+    \put(0.50779613,0.02083333){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$N^*$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{problems.pdf}}%
+    \put(0.49993658,0.15359811){\color[rgb]{0,0,0.50196078}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny usual behavior\end{tabular}}}}%
+    \put(0.61261614,0.07603945){\color[rgb]{0,0.50196078,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny observed\end{tabular}}}}%
+    \put(0.82663822,0.06489879){\color[rgb]{0.83137255,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\delta\!\sim\!\!P^{-1/d}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{problems.pdf}}%
+    \put(0.82702293,0.03867267){\rotatebox{2.1887084}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny $185.$\end{tabular}}}}}%
+  \end{picture}%
+\endgroup%

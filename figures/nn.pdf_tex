@@ -1,0 +1,77 @@
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'nn.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{291.63938141bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.73784255)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{nn.pdf}}%
+    \put(0.6896623,0.01439933){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$z^3$\end{tabular}}}}%
+    \put(0.86108662,0.3853915){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$f(w,x)$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{nn.pdf}}%
+    \put(0.83881968,0.67860339){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$d=7$\end{tabular}}}}%
+    \put(0.83881968,0.62716999){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$h=9$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{nn.pdf}}%
+    \put(0.83881968,0.57573664){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$L=3$\end{tabular}}}}%
+    \put(0.03645879,0.09351193){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$x$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{nn.pdf}}%
+    \put(0.11413394,0.38584955){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$w^1$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{nn.pdf}}%
+    \put(0.31986737,0.38584956){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$w^2$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{nn.pdf}}%
+    \put(0.56674754,0.38584956){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$w^3$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{nn.pdf}}%
+    \put(0.76219442,0.38584956){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$w^4$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{nn.pdf}}%
+    \put(0.44278266,0.01439933){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$z^2$\end{tabular}}}}%
+    \put(0.19590234,0.01439933){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$z^1$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

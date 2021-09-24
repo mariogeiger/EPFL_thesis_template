@@ -1,0 +1,87 @@
+%% Creator: Inkscape 1.0.2 (e86c870879, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'jamming.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{768bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.375)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{jamming.pdf}}%
+    \put(0.2265625,0.16796875){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}(e)\end{tabular}}}}%
+    \put(0.4765625,0.16796875){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}(f)\end{tabular}}}}%
+    \put(0.7265625,0.16796875){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}(g)\end{tabular}}}}%
+    \put(0.9765625,0.16796875){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}(h)\end{tabular}}}}%
+    \put(0.2265625,0.36132812){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}(a)\end{tabular}}}}%
+    \put(0.4765625,0.36132812){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}(b)\end{tabular}}}}%
+    \put(0.7265625,0.36132812){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}(c)\end{tabular}}}}%
+    \put(0.9765625,0.36132812){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}(d)\end{tabular}}}}%
+    \put(0.125,0.359375){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\phi < \phi_S$\end{tabular}}}}%
+    \put(0.375,0.359375){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\phi > \phi_S$\end{tabular}}}}%
+    \put(0.625,0.359375){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\phi < \phi_E$\end{tabular}}}}%
+    \put(0.875,0.359375){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\phi > \phi_E$\end{tabular}}}}%
+    \put(0.03125,0.1640625){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$U$\end{tabular}}}}%
+    \put(0.2265625,0.015625){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\phi$\end{tabular}}}}%
+    \put(0.28125,0.1640625){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\frac{N_\Delta}{N}$\end{tabular}}}}%
+    \put(0.4765625,0.015625){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$U$\end{tabular}}}}%
+    \put(0.7265625,0.015625){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\sqrt{\lambda}$\end{tabular}}}}%
+    \put(0.9765625,0.015625){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\sqrt{\lambda}$\end{tabular}}}}%
+    \put(0.50938129,-0.0078125){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny $0$\end{tabular}}}}%
+    \put(0.75938129,-0.0078125){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny $0$\end{tabular}}}}%
+    \put(0.09375,-0.0066359){\color[rgb]{0,0,1}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny $\phi_S$\end{tabular}}}}%
+    \put(0.1328125,-0.0066359){\color[rgb]{1,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny $\phi_E$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{jamming.pdf}}%
+    \put(0.78234661,0.02791601){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny $U^{\frac{1}{4}}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{jamming.pdf}}%
+    \put(0.55795729,0.060563){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny $U^{\frac{1}{4}}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{jamming.pdf}}%
+    \put(0.24960779,0.09255767){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\tiny $1$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{jamming.pdf}}%
+  \end{picture}%
+\endgroup%
